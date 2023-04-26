@@ -1,1 +1,9 @@
-{}
+{
+  "function": {
+    "servlabecomef04431cPostConfirmation": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
